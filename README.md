@@ -149,15 +149,11 @@ cd COVID-19-TRACKER
 
 ---
 
-## 📜 License
-MIT License. See [LICENSE](LICENSE) for details.
-
----
 
 ## 📧 Contact
 For questions or collaborations:  
-📩 Email: yourname@email.com  
-💻 GitHub: [@yourusername](https://github.com/yourusername)
+📩 Email: hntaganira06@gmail.com 
+💻 GitHub: [@Habimana06](https://github.com/Habimana06)
 
 ---
 
