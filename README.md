@@ -1,6 +1,6 @@
 # COVID-19 Data Analysis Tracker
 
-![Example Plot](outputs/plots/new_cases.png)  
+![Cases vs Deaths Plot](https://raw.githubusercontent.com/Habimana06/COVID-19-Global-Data-Tracker-Project/main/cases_deaths.png) 
 *Example output: Daily new COVID-19 cases (7-day average)*
 
 ---
